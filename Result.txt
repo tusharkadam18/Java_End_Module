@@ -1,0 +1,6 @@
+The Number of Line in the code are: 38
+The number words in the code are : 196
+The number of characters in the code are: 1771
+The Number of vowels in the code are: 336
+Name: Tushar Sugriv Kadam
+Roll number: 220950320059
